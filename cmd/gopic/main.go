@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"gopic/internal/config"
-	"gopic/internal/server"
+	"gopic/pkg/config"
+	"gopic/pkg/server"
 )
 
 func main() {
